@@ -1,0 +1,12 @@
+﻿Build started 2019/10/9 15:42:49.
+     1>Project "d:\UserData\Personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\IsDebuggerPresentDEMO_x64.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt IsDebuggerPresentDEMO_x64Dlg.cpp
+         IsDebuggerPresentDEMO_x64Dlg.cpp
+     1>IsDebuggerPresentDEMO_x64Dlg.cpp(117): error C2660: 'CWnd::MessageBoxW' : function does not take 4 arguments
+     1>IsDebuggerPresentDEMO_x64Dlg.cpp(120): error C2660: 'CWnd::MessageBoxW' : function does not take 4 arguments
+     1>Done Building Project "d:\UserData\Personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.09

@@ -1,0 +1,21 @@
+﻿Build started 2019/10/9 15:44:17.
+     1>Project "d:\UserData\Personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt IsDebuggerPresentDEMO_x64.cpp IsDebuggerPresentDEMO_x64Dlg.cpp stdafx.cpp
+         IsDebuggerPresentDEMO_x64.cpp
+         IsDebuggerPresentDEMO_x64Dlg.cpp
+         stdafx.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"x64\Release\IsDebuggerPresentDEMO_x64.res" IsDebuggerPresentDEMO_x64.rc 
+       Link:
+         D:\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"d:\userdata\personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\x64\Release\IsDebuggerPresentDEMO_x64.exe" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS2013\VC\Include\Manifest\dpiaware.manifest /PDB:"d:\userdata\personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\x64\Release\IsDebuggerPresentDEMO_x64.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\userdata\personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\x64\Release\IsDebuggerPresentDEMO_x64.lib" /MACHINE:X64 x64\Release\IsDebuggerPresentDEMO_x64.res
+         x64\Release\IsDebuggerPresentDEMO_x64.obj
+         x64\Release\IsDebuggerPresentDEMO_x64Dlg.obj
+         x64\Release\stdafx.obj
+         IsDebuggerPresentDEMO_x64.vcxproj -> d:\userdata\personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\x64\Release\IsDebuggerPresentDEMO_x64.exe
+     1>Done Building Project "d:\UserData\Personal\visual studio 2013\Projects\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64\IsDebuggerPresentDEMO_x64.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.56
